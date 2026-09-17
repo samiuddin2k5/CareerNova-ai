@@ -1,0 +1,8 @@
+{
+  "name": "CareerPilot AI",
+  "description": "Autonomous Personal Career & Job Application Agent for Jobs & Internships across Global (Worldwide) and Regional (Pakistan, US, UK, UAE, EU) Locations with Live 48-Hour Sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
